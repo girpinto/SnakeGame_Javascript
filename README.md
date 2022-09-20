@@ -1,1 +1,1 @@
-# SnakeGame_Javascript
+# Snake Game in Javascript
